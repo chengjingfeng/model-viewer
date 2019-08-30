@@ -1,0 +1,13 @@
+commit 34afa3f46eed6c9b4a1d6afc750d6ca3a04038ed
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Aug 30 08:44:36 2019 -0700
+
+    Zoom using FoV (#729)
+    
+    * switch zoom from radius to FOV
+    
+    * made perceptually linear
+    
+    * fixed tests
+    
+    * addressing feedback
